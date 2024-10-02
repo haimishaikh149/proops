@@ -1,0 +1,23 @@
+  .card {
+    border: 1px solid rgb(114, 223, 84);
+    padding: 500px;
+    margin: 40px;
+    
+    
+    
+  }
+  
+  .name {
+    color: blue;
+  }
+  
+  .rollNo {
+    color: green;
+  }
+  
+  .day {
+    color: purple;
+    text-align: center;
+    text-decoration: underline;
+  }
+    
